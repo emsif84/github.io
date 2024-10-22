@@ -1,5 +1,4 @@
 title: Florian Emsmann
 logo: assets/Profil_Picture.jpg
 description: Das ist nur ein Test
-theme: jekyll-theme-minimal
-
+remote_theme: pages-themes/minimal@v0.2.0
